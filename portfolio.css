@@ -109,7 +109,7 @@
   .a-chara {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color:red;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
@@ -118,7 +118,7 @@
   .a-logo {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color:orange;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
@@ -126,7 +126,7 @@
   .a-maya {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color:yellow;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
@@ -143,7 +143,7 @@
   .b-color {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color:lightgreen;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
@@ -151,7 +151,7 @@
   .b-design {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color: lightblue;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
@@ -159,11 +159,22 @@
   .b-web {
     display: inline-block;
     background-color: black;
-    color: #fff;
+    color:blue;
     font-size: 1.5rem;
     padding: 1em 0em;
   }
 
+  img#elevatezoomSample1{
+      padding-top: 2em;
+  }
+
+  img#elevatezoomSample2{
+    padding-top: 2em;
+  }
+
+  img#elevatezoomSample3{
+    padding-top: 2em;
+  }
   
 *, *::before, *::after {
     margin: 0; 
