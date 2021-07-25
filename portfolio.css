@@ -183,8 +183,7 @@
     background-position: center center;
   }
 
-  main {
-    background-image: url("./img/back.jpeg");  
+  main { 
     display: flex; 
     justify-content: center;
     align-items: center; 
@@ -284,3 +283,25 @@
     transform-origin: 48% 52%;
     animation: rotation 8s infinite linear;
   }
+
+
+  .moto {
+    background-color: white;
+    color: #2b2b2b;
+    font-size: 100%;
+    background-image: "./img/back.jpg";
+  }
+
+  a:link { color: #0000ff; }
+  a:visited { color: #0000a0; }
+  a:hover { color: #0000ff; }
+  a:active { color: #ff8000; }
+
+  .container {
+    padding-bottom: 400px;
+    }
+
+  p.nextLink {
+    margin-top: 50px;
+    text-align: center;
+    }
