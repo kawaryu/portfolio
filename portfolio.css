@@ -164,17 +164,8 @@
     padding: 1em 0em;
   }
 
-  img#elevatezoomSample1{
-      padding-top: 2em;
-  }
 
-  img#elevatezoomSample2{
-    padding-top: 2em;
-  }
-
-  img#elevatezoomSample3{
-    padding-top: 2em;
-  }
+  
   
 *, *::before, *::after {
     margin: 0; 
@@ -182,20 +173,19 @@
     box-sizing: border-box; 
   }
 
-  /* Webページ全体の設定を記載 */
 :root { 
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
     font-size: 16pt;
   }
 
-  body {
-    background-image: url("./img/back.jpeg");  
+  header {
     background-size: cover; 
     background-attachment: fixed; 
     background-position: center center;
   }
 
   main {
+    background-image: url("./img/back.jpeg");  
     display: flex; 
     justify-content: center;
     align-items: center; 
