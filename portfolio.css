@@ -114,7 +114,6 @@
     padding: 1em 0em;
   }
 
-
   .a-logo {
     display: inline-block;
     background-color: black;
@@ -165,7 +164,7 @@
   }
 
 
-  
+
   
 *, *::before, *::after {
     margin: 0; 
